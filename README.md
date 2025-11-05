@@ -13,6 +13,7 @@
       <li>🤝 Disfruto de trabajar en equipo, aprender de otros y compartir conocimientos.</li>
       <li>Fuera del código, 💪 Me gusta hacer deporte 🎨 Dibujar me ayuda a entrenar la creatividad 🎧 La música siempre presente 🌍 Salir a caminar y desconectar un poco</li>
       <li>📩 Contactame: <a href="dtejedor18@gmail.com">dtejedor18@gmail.com</a></li>
+      <li>💻 Portafolio Web: <a href="https://davidtejedor.netlify.app">davidtejedor.netlify.app</a></li>
     </ul>
   </div>
   
