@@ -35,5 +35,5 @@
 
 <!--GITHUB STATES -->  
  ## ⚙️ Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidtejedor01&theme=dark&hide_border=false" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddtejedor&theme=dark&hide_border=false" /> 
 <!-- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=davidtejedor01&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/> -->
