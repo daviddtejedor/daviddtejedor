@@ -16,11 +16,11 @@
 </div>
 
 ### 🌐 Portfolio
-  https://davidtejedor.netlify.app 
+  https://david-tejedor-portfolio.vercel.app 
 ### 📩 Contacto
   <a href="mailto:davidtejedor10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/david-tejedor/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/davidd.tkd"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/daviddtejedor/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/daviddtejedor"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 
 <!--TECNOLOGÍAS -->
   ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologías
